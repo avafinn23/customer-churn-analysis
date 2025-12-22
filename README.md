@@ -100,19 +100,7 @@ These results confirm and extend the patterns observed during exploratory analys
 - Retention strategies should focus on **new customers**, **month-to-month contracts**, and **high-cost plans**.
 - Combining Tableau-based EDA with predictive modeling provides both intuitive and quantitative insights.
 
----
 
-## Repository Structure
-
-customer-churn-analysis/
-│
-├── README.md
-├── customer_churn_data_cleaned.csv
-├── churn_logistic_regression.ipynb
-├── build_model_outputs.py
-├── tableau_logreg_feature_importance.csv
-├── tableau_model_metrics.csv
-└── tableau_confusion_matrix.csv
 
 This project demonstrates an end-to-end analytics workflow:
 - Data cleaning
