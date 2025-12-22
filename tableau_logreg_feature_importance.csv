@@ -1,0 +1,21 @@
+Feature,Coefficient,AbsCoefficient,Direction
+tenure,-1.2386627580546434,1.2386627580546434,Decreases churn
+InternetService_Fiber optic,0.7032637723421511,0.7032637723421511,Increases churn
+MonthlyCharges,-0.6993594367210944,0.6993594367210944,Decreases churn
+Contract_Two year,-0.6561674466882604,0.6561674466882604,Decreases churn
+Contract_One year,-0.3292527854919902,0.3292527854919902,Decreases churn
+TotalCharges,0.30932013788441176,0.30932013788441176,Increases churn
+StreamingTV_Yes,0.2505045040712954,0.2505045040712954,Increases churn
+StreamingMovies_Yes,0.23327965752211588,0.23327965752211588,Increases churn
+MultipleLines_Yes,0.2285242076892588,0.2285242076892588,Increases churn
+TenureGroup_4+ years,0.22641302395845234,0.22641302395845234,Increases churn
+PaymentMethod_Electronic check,0.17652563617810274,0.17652563617810274,Increases churn
+PaperlessBilling_Yes,0.14409898066867577,0.14409898066867577,Increases churn
+TenureGroup_1–2 years,-0.1355048698232629,0.1355048698232629,Decreases churn
+OnlineSecurity_Yes,-0.13234862863192148,0.13234862863192148,Decreases churn
+TechSupport_Yes,-0.11048320038420183,0.11048320038420183,Decreases churn
+Dependents_Yes,-0.0991576816403835,0.0991576816403835,Decreases churn
+StreamingMovies_No internet service,-0.08121578447464851,0.08121578447464851,Decreases churn
+StreamingTV_No internet service,-0.08121578447464851,0.08121578447464851,Decreases churn
+DeviceProtection_No internet service,-0.08121578447464851,0.08121578447464851,Decreases churn
+TechSupport_No internet service,-0.08121578447464851,0.08121578447464851,Decreases churn
