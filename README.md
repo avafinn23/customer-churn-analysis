@@ -79,6 +79,8 @@ A **logistic regression model** was trained to predict customer churn and quanti
 An AUC of 0.83 indicates strong ability to distinguish between customers who churn and those who do not.
 
 Logistic regression and random forest models were considered for churn analysis. Logistic regression was selected as the primary model because it provides interpretable coefficients that clearly indicate the direction and relative strength of each churn driver. While random forests can capture non-linear relationships and interactions, their feature importance scores do not indicate whether features increase or decrease churn risk. Given the strong performance of logistic regression (AUC = 0.83), interpretability was prioritized over marginal gains in predictive accuracy.
+We can see that both models similarly identify the same features with similar accuracy
+<img width="855" height="421" alt="Screenshot 2025-12-23 at 4 02 19 PM" src="https://github.com/user-attachments/assets/d050f6b6-518a-42fd-a71b-6bf13e859940" />
 
 ---
 
